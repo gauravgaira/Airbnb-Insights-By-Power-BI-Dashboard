@@ -6,7 +6,7 @@ The dashboard is structured into four analytical themes: Overview, Property Anal
 
 ## 📊 Airbnb Data Visualization Project - Summary
 
-## **Overview AIRBNB Section**
+## **Overview AIRBNB Section** - 
 This section provides a high-level snapshot of Airbnb listings to understand the market size and activity.
 
 Total Listings, Total Hosts, Average Price, Total Reviews (KPIs): These key performance indicators offer quick insight into the scale of Airbnb operations and average pricing trends.
@@ -38,7 +38,7 @@ Approximately 25% of listings are for entire homes/apartments, while 22% are for
 Room Type Distribution Across Neighbourhood Groups:
 Manhattan and Brooklyn again lead in terms of room type diversity and volume, with shares more than double those of other neighbourhood groups.
 
-## **Pricing Analysis Section **
+## **Pricing Analysis Section**
 This section explores how prices vary across different factors to understand pricing dynamics.
 
 Average Price by Neighbourhood Group & Room Type (Column Chart): Demonstrates how location and room type affect average pricing, highlighting premium or budget areas and room types.
