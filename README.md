@@ -6,7 +6,7 @@ The dashboard is structured into four analytical themes: Overview, Property Anal
 
 ## 📊 Airbnb Data Visualization Project - Summary :
 
-## **Overview AIRBNB Section:-**  
+# **Overview AIRBNB Dashboard:-**  
 This section provides a high-level snapshot of Airbnb listings to understand the market size and activity.
 
 Total Listings, Total Hosts, Average Price, Total Reviews (KPIs): These key performance indicators offer quick insight into the scale of Airbnb operations and average pricing trends.
@@ -23,7 +23,7 @@ Williamsburg (3,910 listings) and Bedford-Stuyvesant (3,700 listings) are the tw
 Listings by Neighbourhood Group:
 Manhattan and Brooklyn have the highest concentration of listings, as clearly illustrated in the map visualization.
 
-## **Property Analysis Section:-**
+# **Property Analysis Dashboard:-**
 This section dives into the types of properties and rooms available, revealing the structure of Airbnb's offerings.
 
 Percentage Share of Room Types (Pie Chart): Shows the proportion of listings by room type, such as entire homes, private rooms, and shared rooms, revealing market composition.
@@ -38,7 +38,7 @@ Approximately 25% of listings are for entire homes/apartments, while 22% are for
 Room Type Distribution Across Neighbourhood Groups:
 Manhattan and Brooklyn again lead in terms of room type diversity and volume, with shares more than double those of other neighbourhood groups.
 
-## **Pricing Analysis Section:-**
+# **Pricing Analysis Dashboard:-**
 This section explores how prices vary across different factors to understand pricing dynamics.
 
 Average Price by Neighbourhood Group & Room Type (Column Chart): Demonstrates how location and room type affect average pricing, highlighting premium or budget areas and room types.
@@ -60,7 +60,7 @@ Most listings with reviews fall below 2,000 in number, with a dense concentratio
 Average Price by Location:
 Manhattan and Brooklyn again emerge as the top neighbourhood groups with the highest average listing prices.
 
-## **Host Analysis Section:-**
+# **Host Analysis Dashboard:-**
 This section analyzes host behavior and how it correlates with pricing and popularity.
 
 Top 15 Hosts by Number of Reviews (Column Chart): Identifies the most active or popular hosts based on review volume.
