@@ -4,6 +4,15 @@ This Power BI project provides a detailed analysis of Airbnb listings to uncover
 
 The dashboard is structured into four analytical themes: Overview, Property Analysis, Pricing Analysis, and Host Analysis, enabling a holistic understanding of Airbnb’s operational landscape.
 
+# 📁 Dashboard Structure
+
+The report is divided into four key analytical themes:
+
+1. **Overview AIRBNB**
+2. **Property Analysis**
+3. **Pricing Analysis**
+4. **Host Analysis**
+
 ## 📊 Airbnb Data Visualization Project - Summary :
 
 # **Overview AIRBNB Dashboard:-**  
