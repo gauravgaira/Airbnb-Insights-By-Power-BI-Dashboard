@@ -90,3 +90,8 @@ Entire homes have the highest average price, and listings with 100–200 reviews
 
 Hosts like Michael and David stand out with the highest number of reviews, reflecting strong engagement and trust. Overall, the dashboard highlights key trends in location, pricing, property type, and host performance.
 
+### 📸 Dashboard Preview
+
+![Airbnb Dashboard Screenshot](INSIGHTS.PNG)
+
+
